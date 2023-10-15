@@ -1,0 +1,22 @@
+body {
+  margin: 8px auto;
+  background-color: antiquewhite;
+  width: 628px;
+}
+table {
+  background-color: grey;
+  width: 628px;
+  border: 2px solid black;
+  border-radius: 32px;
+}
+fieldset {
+  background-color: grey;
+  border: 2px solid black;
+  border-radius: 32px;
+}
+video,
+audio,
+img {
+  border: 2px solid black;
+  border-radius: 32px;
+}
